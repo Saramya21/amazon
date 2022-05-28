@@ -1,0 +1,27 @@
+ Product name:
+    css: '#productTitle'
+    type: Text
+price:
+    css: '#price_inside_buybox'
+    type: Text
+source:
+    css: 'amazon'
+    type: Text
+
+rating:
+    css: span.arp-rating-out-of-text
+    type: Text
+  category:
+    css:span .smartphone-out-of text
+    type:Text
+    
+
+
+        
+ 
+Model no:
+css:SM-M515FZBEINS
+type:Text
+Unique No:
+    css:V2030 
+    type: Text
